@@ -1,0 +1,1 @@
+fly -t local workers
